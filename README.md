@@ -20,18 +20,18 @@ You have uploaded your art to the Voice marketplace and are adding several contr
 # Tasks
 
 
-### Task 1: Adding two more creators to the page.
+#### Task 1: Adding two more creators to the page.
 
 Goal: To find out whether the why that credits attributed to a new collaborator makes sense.
-### Task 2: Allocating the royalty credits so that cryptogod receives 20% of the credit, cupcake receives 20% of the credit, and cryptopur receives 60% of the credit.
+#### Task 2: Allocating the royalty credits so that cryptogod receives 20% of the credit, cupcake receives 20% of the credit, and cryptopur receives 60% of the credit.
 Goal: To identify any potential problems in customizing creator credits.
-### Task 3: Adding one more collaborator, so there is a total of four creators.
+#### Task 3: Adding one more collaborator, so there is a total of four creators.
 Get prepare for task 4.
-### Task 4: Allocating the credits so that cryptogod receives 10% of the credits, cupcake receives 15% of the credits, cryptopur receives 15% of the credits, and bluecrab receives 60% of the credits.
+#### Task 4: Allocating the credits so that cryptogod receives 10% of the credits, cupcake receives 15% of the credits, cryptopur receives 15% of the credits, and bluecrab receives 60% of the credits.
 Goal: Identify any potential problems when the task is more complex.
-### Task 5: Delete a collaborator
+#### Task 5: Delete a collaborator
 Goal: whether users know how to delete a collaborator. 
-### Task 6: splitting the credits evenly between the three collaborators.
+#### Task 6: splitting the credits evenly between the three collaborators.
 Goal: whether users know how to split the credits when the Math involves an infinite number. 
 
 # Matrix
