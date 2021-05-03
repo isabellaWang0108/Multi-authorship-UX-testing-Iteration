@@ -60,6 +60,7 @@ export default class Creator extends React.Component {
             for (var i = 0; i < tempArr.length; i++) {
                 tempArr[i].ownership = share;
             }
+            this.setState({ count: 0 });
         } else {
             for (var i = 0; i < tempArr.length; i++) {
                 if (i === 0)
