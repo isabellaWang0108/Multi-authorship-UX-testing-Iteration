@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Multi-authorship-UX-testing-Iteration/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Multi-authorship-UX-testing-Iteration/static/js/main.5d4f02b2.chunk.js",
+    "main.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/main.5d4f02b2.chunk.js.map",
+    "runtime-main.js": "/Multi-authorship-UX-testing-Iteration/static/js/runtime-main.cd0e36eb.js",
+    "runtime-main.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/runtime-main.cd0e36eb.js.map",
+    "static/js/2.4d9ada4c.chunk.js": "/Multi-authorship-UX-testing-Iteration/static/js/2.4d9ada4c.chunk.js",
+    "static/js/2.4d9ada4c.chunk.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/2.4d9ada4c.chunk.js.map",
+    "static/js/3.c38468e7.chunk.js": "/Multi-authorship-UX-testing-Iteration/static/js/3.c38468e7.chunk.js",
+    "static/js/3.c38468e7.chunk.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/3.c38468e7.chunk.js.map",
+    "index.html": "/Multi-authorship-UX-testing-Iteration/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Multi-authorship-UX-testing-Iteration/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4d9ada4c.chunk.js.LICENSE.txt": "/Multi-authorship-UX-testing-Iteration/static/js/2.4d9ada4c.chunk.js.LICENSE.txt",
+    "static/media/img.cc7c8f99.jpg": "/Multi-authorship-UX-testing-Iteration/static/media/img.cc7c8f99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd0e36eb.js",
+    "static/js/2.4d9ada4c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5d4f02b2.chunk.js"
+  ]
+}
