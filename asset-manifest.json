@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Multi-authorship-UX-testing-Iteration/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Multi-authorship-UX-testing-Iteration/static/js/main.5d4f02b2.chunk.js",
-    "main.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/main.5d4f02b2.chunk.js.map",
+    "main.js": "/Multi-authorship-UX-testing-Iteration/static/js/main.2f4cfde7.chunk.js",
+    "main.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/main.2f4cfde7.chunk.js.map",
     "runtime-main.js": "/Multi-authorship-UX-testing-Iteration/static/js/runtime-main.cd0e36eb.js",
     "runtime-main.js.map": "/Multi-authorship-UX-testing-Iteration/static/js/runtime-main.cd0e36eb.js.map",
     "static/js/2.4d9ada4c.chunk.js": "/Multi-authorship-UX-testing-Iteration/static/js/2.4d9ada4c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cd0e36eb.js",
     "static/js/2.4d9ada4c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.5d4f02b2.chunk.js"
+    "static/js/main.2f4cfde7.chunk.js"
   ]
 }
