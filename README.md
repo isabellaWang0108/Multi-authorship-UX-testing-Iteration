@@ -34,7 +34,7 @@ Goal: whether users know how to delete a collaborator.
 #### Task 6: splitting the credits evenly between the three collaborators.
 Goal: whether users know how to split the credits when the Math involves an infinite number. 
 
-# Matrix
+# Metrics
 | Task     | Prototype auto-fill                          | Prototype manual-fill
 | -------- | -------------------------------------------- | -------------------------------------------- |
 | #1     |  100% success rate<br/> 8/10 dislike<br/> 2/10 think there are 2 users by default| 100% success rate<br/> 1/10 dislike<br/>1/10 thinks there are 2 users|
